@@ -8,7 +8,6 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/chaosdogg/frivycat-inc-mod?logo=github&style=flat-square">
 <img alt="Custom badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F848454691805069312%2F866417009566285864%2FMC_Version_Badge_2.json">
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/chaosdog1?style=social">
-<img src="https://badges.crowdin.net/frivycat-inc-mod-translations/localized.svg">
 <hr>
 The Story:
 <br>
@@ -16,6 +15,5 @@ The world you explore seems to be as you last left it, yet something is amiss. S
 <hr>
 Description:
 <br>
-This mod is designed to be based off of my datapack of the same name, FrivyCat Inc Datapack. However, this is meant as a successor so any future additions will most likely happen here before the DP will receive them.
-<hr>
-<img alt="Custom badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F848454691805069312%2F866428895224922122%2Ftolololololol.json">
+This mod is designed to be based off of my datapack of the same name, FrivyCat Inc Datapack. However, this is a direct successor and all further content will be pushed towards this mod. I will do my best to not only steer clear from mc functions in my mod, but also try to implement some other mod compat!
+

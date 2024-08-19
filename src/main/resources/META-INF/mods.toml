@@ -1,40 +1,31 @@
-# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
 modLoader="javafml"
-
-# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
-# Forge for 1.16.5 is version 36
-loaderVersion="[36,)"
-
-# A URL to refer people to when problems occur with this mod
-issueTrackerURL="https://github.com/ChaosDogG/FrivyCat-Inc-Mod/issues"
-
-# If the mods defined in this file should show as separate resource packs
-showAsResourcePack=false
-license = "GPL-3.0-or-later"
-
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
 [[mods]]
-    modId="frivycat"
-    version="0.9.7"
-    displayName="FrivyCat Inc. Mod"
-    logoFile="pack.png"
-    credits="I'd like to thank NetherNoah, who is helping me develop this mod and Flint, who is helping with textures, models, and testing!"
-    authors="§aChaosDog§r, NetherNoah777, FlintCam"
-    description="Based on the §aFrivyCat Inc.§r Datapack" # Added color codes cause why not
-    itemIcon="frivycat:frivy_coin_1"
+modId="frivycat"
+version="${mod_version}"
+displayName="${mod_name}"
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+#logoFile="examplemod.png" #optional
+#credits="" #optional
+authors="${mod_authors}"
+#displayTest="MATCH_VERSION" # MATCH_VERSION is the default if nothing is specified (#optional)
 
+description='''${mod_description}'''
 [[dependencies.frivycat]]
     modId="forge"
     mandatory=true
-    versionRange="[36,)"
+    versionRange="${forge_version_range}"
     ordering="NONE"
     side="BOTH"
-
 [[dependencies.frivycat]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.5]"
+    versionRange="${minecraft_version_range}"
     ordering="NONE"
     side="BOTH"
 
-[modproperties.frivycat]
-    configuredBackground="minecraft:textures/block/jigsaw_top"
+#[features.${mod_id}]
+#openGLVersion="[3.2,)"

@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-    "frivycat:easter_egg"
+    {
+      "id":"frivycat:easter_egg",
+      "required": false
+    }
   ]
 }

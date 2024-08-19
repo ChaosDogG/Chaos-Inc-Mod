@@ -1,9 +1,0 @@
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:ruby",Count:1b}}] run function frivycat:gems/auto_convert
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:sapphire",Count:1b}}] run function frivycat:gems/nitwit_be_gone
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:zircon",Count:1b}}] run function frivycat:gems/nitwit_maker
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:garnet",Count:1b}}] run function frivycat:madness
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:jade",Count:1b}}] run function frivycat:gems/auto_farm
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:jasper",Count:1b}}] run function frivycat:gems/golem_enhance
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:spinel",Count:1b}}] run function frivycat:gems/spawner_overclock
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:topaz",Count:1b}}] run function frivycat:gems/spawner_reset
-execute at @e[type=item_frame,nbt={Item:{id:"frivycat:agate",Count:1b}}] run function frivycat:gems/eg

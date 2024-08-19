@@ -55,9 +55,6 @@
   "entity.minecraft.villager.frivycat.dummy_c": "Model Checker",
 
   "item.frivycat.agate": "Agate",
-  "item.frivycat.baby_bottle": "Babyflasche",
-  "item.frivycat.baby_rattle_boy": "Baby Rassel",
-  "item.frivycat.baby_rattle_girl": "Baby Rassel",
   "item.frivycat.butter": "Butter",
   "item.frivycat.catalyst_diamond": "Catalyst Diamond",
   "item.frivycat.corrupted_diamond": "Verdorbender Diamant",
@@ -68,7 +65,6 @@
   "item.frivycat.drained_diamond": "Drained Diamond",
   "item.frivycat.easter_egg": "Easter Egg",
   "item.frivycat.fire_diamond": "Feuer Diamont",
-  "item.frivycat.frivy_coin": "Frivy-Coin",
   "item.frivycat.garnet": "Granat",
   "item.frivycat.green_apple_candy": "Grüner kandierter Apfel",
   "item.frivycat.holy_diamond": "Geheiligter Diamont",
@@ -86,7 +82,6 @@
   "item.frivycat.mumbo_mustache": "Mumbo's Mustache",
   "item.frivycat.mustache": "Mustache",
   "item.frivycat.peace_diamond": "Friendens Diamont",
-  "item.frivycat.pencil": "Bleistift (WiP)",
   "item.frivycat.pigper_spawn_egg": "Pig-Per Creation Capsule",
   "item.frivycat.scooby_skeleton_spawn_egg": "Scooby-Skeleton Creation Capsule",
   "item.frivycat.scooby_stray_spawn_egg": "Scooby-Stray Creation Capsule",
@@ -126,9 +121,6 @@
   "item.frivycat.water_diamond": "Wasser Diamond",
   "item.frivycat.zircon": "Zirkon",
 
-  "item.frivycat.baby_rattle_boy.tooltip": "Boy",
-  "item.frivycat.baby_rattle_girl.tooltip": "Girl",
-
   "item.frivycat.ruby.jei_info": "This lil sucker, a remnant of the scrapped MC Ruby from the old days, transports all zombie villagers to it within a 10-50 block radius and automatically converts them to the deformed, armless, freaks you all know and hate :3",
   "item.frivycat.sapphire.jei_info": "Put this lil thing in a frame and suddenly Nitwits can get employed. Notice how I said “can” and not “will”. Yeah, good luck getting these guys hired.",
   "item.frivycat.zircon.jei_info": "This thing does the exact opposite as the Sapphire, so I suggest just burning this.",
@@ -143,5 +135,10 @@
 
   "message.corrupted_block_collide_unsafe": "Something isn't right with that block...better pick it back up",
   "message.corrupted_block_collide_safe": "How strange...seems with this item, you're receiving quite the buff...",
-  "message.magic_wand.failed": "Hrm....maybe you need more levels..."
+  "message.magic_wand.failed": "Hrm....maybe you need more levels...",
+  "message.darkness_diamond_curios.dirt": "What an interesting stack of dirt, would be a shame if it got sheepish >:3",
+  "message.madness_diamond_curios.mini": "Awwww, it seems a mini you has spawned♪",
+  "message.madness_diamond_curios.oops": "Uhm...let's just pretend that didn't happen-",
+  "message.madness_diamond_curios.missing_items": "Hrm...perhaps you should be holding something, maybe an Allium or an Arrow",
+  "message.madness_diamond_curios.missing_mods": "It seems this diamond's powers are beyond your understanding...perhaps you could install some clones of some sort..."
 }

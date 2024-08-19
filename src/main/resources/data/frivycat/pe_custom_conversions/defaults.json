@@ -12,13 +12,7 @@
       "frivycat:spinel": 16384,
       "frivycat:topaz": 16384,
       "frivycat:agate": 16384,
-      "frivycat:drained_diamond": 8192,
-      "minecraft:written_book": 100,
-      "minecraft:dragon_head": 512,
-      "minecraft:wither_skeleton_skull": 5000,
-      "minecraft:bucket": 256,
-      "minecraft:yellow_dye": 16,
-      "minecraft:totem_of_undying": "free"
+      "frivycat:drained_diamond": 8192
     }
   }
 }

@@ -1,1 +1,0 @@
-data merge entity @e[type=#frivycat:undead_horse,limit=1,tag=!tamed] {Tame:1,Tags:["tamed"]}

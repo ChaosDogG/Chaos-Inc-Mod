@@ -10,8 +10,17 @@
     "minecraft:debug_stick",
     "#minecraft:flowers",
     "minecraft:music_disc_pigstep",
-    "frivycat:stone_banana",
-    "#frivycat:special_diamonds",
-    "frivycat:lock_pick"
+    {
+      "id": "frivycat:stone_banana",
+      "required": false
+    },
+    {
+      "id": "#frivycat:special_diamonds",
+      "required": false
+    },
+    {
+      "id": "frivycat:lock_pick",
+      "required": false
+    }
   ]
 }

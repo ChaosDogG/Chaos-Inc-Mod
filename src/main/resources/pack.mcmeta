@@ -1,6 +1,8 @@
 {
-	"pack": {
-		"pack_format": 6,
-		"description": "§aFrivyCat's Changes to the Game"
-	}
+  "pack": {
+    "description": {
+      "text": "${mod_id} resources"
+    },
+    "pack_format": 15
+  }
 }

@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "block/piston_extended",
-	"textures": {
-		"bottom": "block/iron_block",
-		"side": "block/piston_side_on",
-		"inside": "block/piston_inner"
-	}
-}

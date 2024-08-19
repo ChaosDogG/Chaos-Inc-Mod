@@ -1,8 +1,0 @@
-Datapack | Mod
-
-Gems are variants of Emerald | Gems are their own items along with ores and blocks
-Stone Banana is variant of Stone Pickaxe | Stone Banana is its own tool
-Mugs, Potion Mugs, and Honey Mugs are variants of Glass Bottles, Potions, and Honey Bottles respectively | Mugs, Potion Mugs, and Honey Mugs are their own items
-Easter Egg is a variant of an Egg | Easter Egg is its own item
-Mumbo Dust is a variant of Redstone Dust and the Mumbo Block replaced the Redstone Block | Mumbo Dust and Blocks now their own thing
-N/A | Butter and Corrupted Blocks exist

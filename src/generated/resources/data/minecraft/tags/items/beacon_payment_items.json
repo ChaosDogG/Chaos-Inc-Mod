@@ -1,14 +1,41 @@
 {
   "replace": false,
   "values": [
-    "frivycat:ruby",
-    "frivycat:sapphire",
-    "frivycat:zircon",
-    "frivycat:garnet",
-    "frivycat:jade",
-    "frivycat:jasper",
-    "frivycat:spinel",
-    "frivycat:topaz",
-    "frivycat:agate"
+    {
+      "id": "frivycat:ruby",
+      "replace": false
+    },
+    {
+      "id": "frivycat:sapphire",
+      "replace": false
+    },
+    {
+      "id": "frivycat:zircon",
+      "replace": false
+    },
+    {
+      "id": "frivycat:garnet",
+      "replace": false
+    },
+    {
+      "id": "frivycat:jade",
+      "replace": false
+    },
+    {
+      "id": "frivycat:jasper",
+      "replace": false
+    },
+    {
+      "id": "frivycat:spinel",
+      "replace": false
+    },
+    {
+      "id": "frivycat:topaz",
+      "replace": false
+    },
+    {
+      "id": "frivycat:agate",
+      "replace": false
+    }
   ]
 }

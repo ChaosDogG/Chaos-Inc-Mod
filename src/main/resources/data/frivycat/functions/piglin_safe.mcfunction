@@ -1,1 +1,0 @@
-execute as @e[tag=!unchangable,name="Save Me"] run data merge entity @s {Tags:["unchangable"],CustomName:'{"text":""}',IsImmuneToZombification:1}

@@ -1,1 +1,0 @@
-execute as @e[type=armor_stand,tag=!updated] run data merge entity @s {NoBasePlate:1,ShowArms:1,Tags:["updated"]}

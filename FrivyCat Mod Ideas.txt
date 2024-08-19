@@ -1,25 +1,23 @@
 Ideas to implement:
-    Spawn eggs for Golems, Illusioners, Giants, and Spawner Minecarts
     Allow Killer Rabbits and Giants to spawn naturally
-    Make some Knowledge Books in creative inventory have pre-made recipes like capsules and tools
+    Make some Knowledge Books in creative inventory have pre-made recipes like spawn eggs and tools
     Give Knowledge Books an easy-to-understand tooltip depicting the recipe it holds
-    Find a way to add Senko Loaves as inventory companions
-    Humans; some like villagers, some like the illager family (nix Ravager and Vex), and some like basic mobs
     Add Illusioners to raids (last wave) and maybe the mansion or new structure
     Make Easter Egg spawn random baby mob then thrown similar to the egg
 
 Currently in development:
-    Full conversion of ChaosDog's datapack into a mod
-    S T O N E  B A N A N A
-    Baby Bottle and Red Tea Bucket same as Milk
+    TOTAL 1.20.1 PORT!
     Mug of Honey same as Honey Bottle
     Liquid Filled Mugs are new Potion variants
     Mug is variant of Bottle
-    Make Pencil able to edit signs on right-click
 
-Will not/Cannot implement (and why):
+Will not/Cannot implement/Removed (and why):
+    Pencil (Mojang alr beat me to the punch)
+    Baby stuff (what sort of madness was I on to think these were fine to add?)
+    Frivy Coins (no real reason for them, plenty of other currency mods)
+    Lucky Heads/Mobs (not vibing with them anymore)
+    Ladies (again, what the actual hell was I thinking with this?)
 
 Fully implemented:
     Gems and Special Diamonds
-    Baby Rattles
     Unobtainable items in creative inventory

@@ -1,2 +1,0 @@
-execute as @e[type=item_frame,nbt={Item:{id:"frivycat:ruby",Count:1b}}] run tp @e[type=zombie_villager,distance=10..50] @s
-execute as @e[type=zombie_villager,distance=..10] run data merge entity @s {ConversionTime:0}

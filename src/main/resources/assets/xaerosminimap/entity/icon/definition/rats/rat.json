@@ -1,9 +1,0 @@
-{
-    "variantIdMethod" : "xaero.common.minimap.render.radar.EntityIconDefinitions.getVariantString",
-    "variant": {
-        "default": "model"
-    },
-    "modelConfigs": [
-        
-    ]
-}

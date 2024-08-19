@@ -1,7 +1,13 @@
 {
   "replace": false,
   "values": [
-    "frivycat:scooby-skeleton",
-    "frivycat:scooby-stray"
+    {
+      "id":"frivycat:scooby-skeleton",
+      "required": false
+    },
+    {
+      "id": "frivycat:scooby-stray",
+      "required": false
+    }
   ]
 }

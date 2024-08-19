@@ -30,7 +30,7 @@ names = [
     #"zircon",
     #"red_tea_bucket",
     #"redstone_with_mustash",
-    "lock_pick"
+    #"lock_pick"
 ]
 
 file_content = "{{\n    \"parent\": \"minecraft:item/generated\",\n    \"textures\": {{\n        \"layer0\": \"frivycat:item/{m_name}\"\n    }}\n}}"

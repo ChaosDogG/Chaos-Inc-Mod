@@ -28,7 +28,7 @@ names = [
     #"zircon",
     #"red_tea_bucket",
     #"redstone_with_mustash",
-    "lock_pick"
+    #"lock_pick"
 ]
 
 code = "public static final RegistryObject<Item> {name_cap} = ITEMS.register(\"{reg_name}\", () -> new Item(new Item.Properties().tab(ItemGroup.TAB_MISC)));"

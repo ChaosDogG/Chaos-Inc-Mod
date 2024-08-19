@@ -1,1 +1,0 @@
-execute as @e[type=snow_golem,tag=!no] run data merge entity @s {Pumpkin:0,Tags:["no"]}

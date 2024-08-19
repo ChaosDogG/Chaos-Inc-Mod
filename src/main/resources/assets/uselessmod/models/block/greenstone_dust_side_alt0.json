@@ -1,7 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "block/redstone_dust_side_alt",
-	"textures": {
-		"line": "block/redstone_dust_line0"
-	}
-}

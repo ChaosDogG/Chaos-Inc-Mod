@@ -1,3 +1,0 @@
-gamerule doImmediateRespawn true
-gamerule commandBlockOutput false
-gamerule maxEntityCramming -1

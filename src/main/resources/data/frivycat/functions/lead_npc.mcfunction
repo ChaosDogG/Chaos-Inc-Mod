@@ -1,2 +1,0 @@
-execute if predicate frivycat:npc_lead_check as @a[predicate=frivycat:npc_lead_check] run execute as @e[type=#frivycat:leadable_npc,sort=nearest,limit=1,nbt=!{Leashed:1}] run data merge entity @s {Leashed:1}
-execute at @a[predicate=frivycat:npc_lead_check] run data modify entity @e[type=#frivycat:leadable_npc,sort=nearest,limit=1,nbt=!{Leashed:1}] Leash set from entity @a[predicate=frivycat:npc_lead_check,sort=nearest,limit=1] {}
